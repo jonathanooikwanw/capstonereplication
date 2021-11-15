@@ -1,1 +1,0 @@
-{"common.test_module1": [], "common.test_module1.ModuleClass1.__init__": ["common.test_module2.ModuleClass2"], "common.test_module2.ModuleClass2": [], "common.test_module1.ModuleClass1.__model_class1_method__": []}

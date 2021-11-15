@@ -1,1 +1,0 @@
-{"pyct.naming": [], "pyct.naming.Namer.__init__": ["<builtin>.set"], "<builtin>.set": [], "pyct.naming.Namer.new_symbol": ["<builtin>.type", "<builtin>.set", "<builtin>.ValueError", "<builtin>.int", "<builtin>.isinstance"], "<builtin>.isinstance": [], "<builtin>.type": [], "<builtin>.ValueError": [], "<builtin>.int": []}

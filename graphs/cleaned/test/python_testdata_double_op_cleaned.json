@@ -1,1 +1,0 @@
-{"testdata.double_op": ["platform.resource_loader.get_path_to_datafile", "framework.load_library.load_op_library"], "platform.resource_loader.get_path_to_datafile": [], "framework.load_library.load_op_library": [], "testdata.double_op.double": ["<builtin>.ValueError", "testdata.double_op_wrapper.double"], "<builtin>.ValueError": [], "testdata.double_op_wrapper.double": []}

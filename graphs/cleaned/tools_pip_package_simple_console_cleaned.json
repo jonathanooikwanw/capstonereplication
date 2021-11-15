@@ -1,1 +1,0 @@
-{"pip_package.simple_console": ["sys.exit", "pip_package.simple_console.main"], "pip_package.simple_console.main": ["code.interact"], "code.interact": [], "sys.exit": []}

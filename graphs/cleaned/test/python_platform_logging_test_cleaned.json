@@ -1,1 +1,0 @@
-{"platform.logging_test": ["platform.googletest.main"], "platform.logging_test.EventLoaderTest.test_log": ["platform.tf_logging.error"], "platform.tf_logging.error": [], "platform.googletest.main": []}

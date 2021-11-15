@@ -1,1 +1,0 @@
-{"tf_saved_model.partially_shaped_variables": ["tf_saved_model.common.do_test"], "tf_saved_model.partially_shaped_variables.TestModule.__init__": ["<builtin>.super", "compat.v2.Variable", "compat.v2.TensorShape"], "<builtin>.super": [], "compat.v2.TensorShape": [], "compat.v2.Variable": [], "tf_saved_model.common.do_test": []}

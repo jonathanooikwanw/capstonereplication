@@ -1,1 +1,0 @@
-{"tf_saved_model.shapes_for_arguments": ["tf_saved_model.common.do_test"], "compat.v2.function": [], "tf_saved_model.shapes_for_arguments.TestModule": ["compat.v2.function"], "tf_saved_model.shapes_for_arguments.TestModule.some_function": [], "tf_saved_model.common.do_test": []}

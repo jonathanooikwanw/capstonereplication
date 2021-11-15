@@ -1,1 +1,0 @@
-{"dlpack.dlpack": ["util.tf_export.tf_export"], "util.tf_export.tf_export": [], "dlpack.dlpack.to_dlpack": ["python.pywrap_tfe.TFE_ToDlpackCapsule"], "python.pywrap_tfe.TFE_ToDlpackCapsule": [], "dlpack.dlpack.from_dlpack": ["python.pywrap_tfe.TFE_FromDlpackCapsule", "eager.context.context"], "eager.context.context": [], "python.pywrap_tfe.TFE_FromDlpackCapsule": []}

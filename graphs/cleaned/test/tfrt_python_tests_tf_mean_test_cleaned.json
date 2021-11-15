@@ -1,1 +1,0 @@
-{"python_tests.tf_mean_test": ["numpy.random.seed", "python_binding.tf_cpurt.TfCpurtExecutor"], "python_binding.tf_cpurt.TfCpurtExecutor": [], "python_tests.tf_mean_test.TfMeanTest.test_mean_2d": ["numpy.mean", "numpy.testing.assert_allclose", "numpy.random.uniform"], "numpy.random.uniform": [], "numpy.mean": [], "numpy.testing.assert_allclose": [], "numpy.random.seed": []}

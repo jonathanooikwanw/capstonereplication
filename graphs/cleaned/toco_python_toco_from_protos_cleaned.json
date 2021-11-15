@@ -1,1 +1,0 @@
-{"python.toco_from_protos": ["python.toco_from_protos.main"], "python.toco_from_protos.execute": ["<builtin>.open", "python._pywrap_toco_api.TocoConvert", "sys.exit"], "<builtin>.open": [], "python._pywrap_toco_api.TocoConvert": [], "sys.exit": [], "python.toco_from_protos.main": ["argparse.ArgumentParser", "absl.app.run"], "argparse.ArgumentParser": [], "absl.app.run": []}

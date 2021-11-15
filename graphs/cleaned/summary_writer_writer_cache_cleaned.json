@@ -1,1 +1,0 @@
-{"writer.writer_cache": [], "threading.RLock": [], "writer.writer_cache.FileWriterCache": ["threading.RLock"], "writer.writer_cache.FileWriterCache.clear": [], "writer.writer_cache.FileWriterCache.get": ["framework.ops.get_default_graph", "writer.writer.FileWriter"], "framework.ops.get_default_graph": [], "writer.writer.FileWriter": []}
