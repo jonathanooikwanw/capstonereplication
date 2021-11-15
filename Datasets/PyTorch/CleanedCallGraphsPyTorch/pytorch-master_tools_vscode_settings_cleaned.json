@@ -1,0 +1,1 @@
+{"vscode_settings": ["vscode_settings.main"], "vscode_settings.main": ["json.loads", "pathlib.Path", "<builtin>.open", "json.dump"], "pathlib.Path": [], "json.loads": [], "<builtin>.open": [], "json.dump": []}

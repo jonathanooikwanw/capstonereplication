@@ -1,0 +1,1 @@
+{"scratch": ["scratch.recurrent", "torch.jit.script", "torch.tensor", "torch.randn", "scratch.recurrent_scaleshift"], "torch.jit.script": [], "scratch.fn": [], "scratch.recurrent": ["scratch.fn", "<builtin>.range"], "<builtin>.range": [], "torch.randn": [], "scratch.recurrent_scaleshift": ["<builtin>.range"], "torch.tensor": []}

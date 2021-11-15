@@ -1,0 +1,1 @@
+{"adding_an_op.cuda_op": ["v1.resource_loader.get_data_files_path", "tensorflow.load_op_library", "tensorflow.test.is_built_with_cuda"], "tensorflow.test.is_built_with_cuda": [], "v1.resource_loader.get_data_files_path": [], "tensorflow.load_op_library": []}

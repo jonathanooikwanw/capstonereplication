@@ -1,0 +1,1 @@
+{"metrics.kl_divergence": [], "metrics.kl_divergence.symmetric_kl_divergence": ["compat.v1.add", "v1.math.reduce_sum", "v1.math.divide", "v1.math.maximum", "v1.math.multiply", "compat.v1.constant", "v1.math.log"], "compat.v1.constant": [], "v1.math.maximum": [], "v1.math.divide": [], "v1.math.log": [], "v1.math.multiply": [], "v1.math.reduce_sum": [], "compat.v1.add": []}

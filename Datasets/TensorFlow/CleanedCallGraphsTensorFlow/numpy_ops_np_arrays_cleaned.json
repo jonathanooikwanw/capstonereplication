@@ -1,0 +1,1 @@
+{"numpy_ops.np_arrays": [], "numpy_ops.np_arrays.convert_to_tensor": ["framework.ops.convert_to_tensor", "numpy_ops.np_dtypes.default_float_type", "<builtin>.isinstance"], "<builtin>.isinstance": [], "numpy_ops.np_dtypes.default_float_type": [], "framework.ops.convert_to_tensor": []}

@@ -1,0 +1,1 @@
+{"saving.saveable_hook": [], "saving.saveable_hook.SaveableHook.__init__": ["framework.constant_op.constant", "<builtin>.super"], "framework.constant_op.constant": [], "<builtin>.super": [], "saving.saveable_hook.SaveableHook.device": [], "saving.saveable_hook.SaveableHook.before_save": [], "saving.saveable_hook.SaveableHook.after_restore": []}

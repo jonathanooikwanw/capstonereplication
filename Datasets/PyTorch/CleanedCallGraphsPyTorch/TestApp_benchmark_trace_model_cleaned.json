@@ -1,0 +1,1 @@
+{"trace_model": ["torch.rand", "torch.utils.mobile_optimizer.optimize_for_mobile", "torchvision.models.mobilenet_v2", "torch.jit.script"], "torchvision.models.mobilenet_v2": [], "torch.rand": [], "torch.jit.script": [], "torch.utils.mobile_optimizer.optimize_for_mobile": []}

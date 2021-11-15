@@ -1,0 +1,1 @@
+{"init_shared_libs": ["ctypes.CDLL", "<builtin>.print"], "<builtin>.print": [], "ctypes.CDLL": []}

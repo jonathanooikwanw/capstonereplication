@@ -1,0 +1,1 @@
+{"benchmarks.tf_numpy_mlp": [], "benchmarks.tf_numpy_mlp.MLP.__init__": ["numpy.random.uniform"], "numpy.random.uniform": [], "benchmarks.tf_numpy_mlp.MLP.inference": ["numpy.random.uniform"], "benchmarks.tf_numpy_mlp.MLP._forward": ["experimental.numpy.matmul", "experimental.numpy.maximum"], "experimental.numpy.matmul": [], "experimental.numpy.maximum": []}

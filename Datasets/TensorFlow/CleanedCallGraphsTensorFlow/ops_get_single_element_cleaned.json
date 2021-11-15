@@ -1,0 +1,1 @@
+{"ops.get_single_element": ["util.deprecation.deprecated", "util.tf_export.tf_export"], "util.deprecation.deprecated": [], "util.tf_export.tf_export": [], "ops.get_single_element.get_single_element": ["<builtin>.type", "<builtin>.TypeError", "<builtin>.isinstance"], "<builtin>.isinstance": [], "<builtin>.type": [], "<builtin>.TypeError": []}

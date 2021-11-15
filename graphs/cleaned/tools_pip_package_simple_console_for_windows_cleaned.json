@@ -1,0 +1,1 @@
+{"pip_package.simple_console_for_windows": ["sys.exit", "pip_package.simple_console_for_windows.main"], "pip_package.simple_console_for_windows.main": ["code.interact"], "code.interact": [], "sys.exit": []}

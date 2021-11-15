@@ -1,0 +1,1 @@
+{"namespace": ["<builtin>.type"], "namespace.Namespace.__init__": ["uuid.uuid4"], "uuid.uuid4": [], "namespace.Namespace.__repr__": [], "namespace.Namespace.__hash__": ["<builtin>.hash"], "<builtin>.hash": [], "namespace.Namespace.__lt__": ["<builtin>.isinstance"], "<builtin>.isinstance": [], "namespace.Namespace.__eq__": ["<builtin>.isinstance"], "<builtin>.type": []}

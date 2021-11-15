@@ -1,0 +1,1 @@
+{"build_libtorch": ["os.path.abspath", "sys.path.append", "tools.setup_helpers.cmake.CMake", "argparse.ArgumentParser", "build_pytorch_libs.build_caffe2", "os.path.dirname"], "os.path.abspath": [], "os.path.dirname": [], "sys.path.append": [], "argparse.ArgumentParser": [], "tools.setup_helpers.cmake.CMake": [], "build_pytorch_libs.build_caffe2": []}

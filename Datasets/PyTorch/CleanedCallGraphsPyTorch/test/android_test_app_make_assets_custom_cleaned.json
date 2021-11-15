@@ -1,0 +1,1 @@
+{"make_assets_custom": ["torch.rand", "torchvision.models.mobilenet_v2", "torch.jit.trace", "<builtin>.open", "torch.jit.export_opnames", "yaml.dump"], "torchvision.models.mobilenet_v2": [], "torch.rand": [], "torch.jit.trace": [], "torch.jit.export_opnames": [], "<builtin>.open": [], "yaml.dump": []}

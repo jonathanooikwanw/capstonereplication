@@ -1,0 +1,1 @@
+{"client.device_lib": [], "client.device_lib.list_local_devices": ["client.device_lib.list_local_devices._convert", "client._pywrap_device_lib.list_devices"], "client.device_lib.list_local_devices._convert": ["framework.device_attributes_pb2.DeviceAttributes"], "framework.device_attributes_pb2.DeviceAttributes": [], "client._pywrap_device_lib.list_devices": []}

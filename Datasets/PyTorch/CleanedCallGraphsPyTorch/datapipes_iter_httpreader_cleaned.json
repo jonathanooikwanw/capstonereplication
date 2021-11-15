@@ -1,0 +1,1 @@
+{"httpreader": [], "httpreader.HTTPReaderIterDataPipe.__init__": [], "httpreader.HTTPReaderIterDataPipe.__iter__": ["<builtin>.Exception", "urllib.request.urlopen"], "urllib.request.urlopen": [], "<builtin>.Exception": []}

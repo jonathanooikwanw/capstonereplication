@@ -1,0 +1,1 @@
+{"ios.extract_object_files_main": ["ios.extract_object_files_main.main"], "ios.extract_object_files_main.main": ["ios.extract_object_files.extract_object_files", "<builtin>.len", "<builtin>.RuntimeError", "<builtin>.open"], "<builtin>.len": [], "<builtin>.RuntimeError": [], "<builtin>.open": [], "ios.extract_object_files.extract_object_files": []}

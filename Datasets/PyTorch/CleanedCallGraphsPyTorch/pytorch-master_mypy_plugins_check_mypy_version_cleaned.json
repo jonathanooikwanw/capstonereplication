@@ -1,0 +1,1 @@
+{"check_mypy_version": [], "check_mypy_version.get_correct_mypy_version": ["pathlib.Path", "re.finditer"], "pathlib.Path": [], "re.finditer": [], "check_mypy_version.plugin": ["check_mypy_version.get_correct_mypy_version", "<builtin>.print"], "<builtin>.print": []}

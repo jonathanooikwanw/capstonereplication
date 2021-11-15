@@ -1,0 +1,1 @@
+{"pip_package.simple_console_for_windows": ["ops.control_flow_ops.while_loop", "sys.exit"], "pip_package.simple_console_for_windows.main": ["code.interact"], "code.interact": [], "sys.exit": []}

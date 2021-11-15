@@ -1,0 +1,1 @@
+{"python.test_utils": [], "python.test_utils.OpsDefsTest._assertOpAndComposite": ["eager.backprop.GradientTape", "<builtin>.zip", "test.TestCase.assertAllClose"], "eager.backprop.GradientTape": [], "<builtin>.zip": [], "test.TestCase.assertAllClose": []}

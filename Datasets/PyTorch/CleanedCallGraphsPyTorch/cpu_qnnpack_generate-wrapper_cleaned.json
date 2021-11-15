@@ -1,0 +1,1 @@
+{"generate-wrapper": ["os.path.join", "os.path.isdir", "<builtin>.open", "<builtin>.print", "os.path.dirname", "os.makedirs"], "os.path.join": [], "os.path.dirname": [], "os.path.isdir": [], "os.makedirs": [], "<builtin>.open": [], "<builtin>.print": []}

@@ -1,0 +1,1 @@
+{"fuzzing.constant_fuzz": ["atheris.instrument_imports", "tensorflow.errors.InvalidArgumentError"], "atheris.instrument_imports": [], "fuzzing.constant_fuzz.TestOneInput": ["tensorflow.constant"], "tensorflow.constant": [], "fuzzing.constant_fuzz.main": ["atheris.Setup", "atheris.Fuzz"], "atheris.Setup": [], "atheris.Fuzz": []}

@@ -1,0 +1,1 @@
+{"gpus.compress_find_cuda_config": ["platform.resource_loader.get_path_to_datafile"], "gpus.compress_find_cuda_config.main": ["zlib.compress", "<builtin>.open", "base64.b64encode"], "<builtin>.open": [], "zlib.compress": [], "base64.b64encode": []}

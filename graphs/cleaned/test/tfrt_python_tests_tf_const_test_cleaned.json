@@ -1,0 +1,1 @@
+{"python_tests.tf_const_test": ["python_binding.tf_cpurt.TfCpurtExecutor"], "python_binding.tf_cpurt.TfCpurtExecutor": [], "python_tests.tf_const_test.TfConstTest.test_const_i32": ["numpy.testing.assert_allclose"], "numpy.testing.assert_allclose": [], "python_tests.tf_const_test.TfConstTest.test_constant_folding_i32": ["numpy.testing.assert_allclose"]}

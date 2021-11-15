@@ -1,0 +1,1 @@
+{"rendezvous_filestore": ["caffe2.python.dyndep.InitOpsLibrary"], "caffe2.python.dyndep.InitOpsLibrary": [], "rendezvous_filestore.gen_rendezvous_ctx": ["caffe2.python.core.CreateOperator", "<builtin>.dict", "caffe2.python.workspace.RunOperatorOnce"], "caffe2.python.core.CreateOperator": [], "caffe2.python.workspace.RunOperatorOnce": [], "<builtin>.dict": []}

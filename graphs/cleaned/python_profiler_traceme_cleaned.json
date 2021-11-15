@@ -1,0 +1,1 @@
+{"profiler.traceme": [], "profiler.traceme.traceme_wrapper": ["<builtin>.getattr"], "<builtin>.getattr": [], "profiler.traceme.traceme_wrapper.wrapper": ["profiler.trace.Trace"], "profiler.trace.Trace": []}

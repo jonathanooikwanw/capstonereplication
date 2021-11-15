@@ -1,0 +1,1 @@
+{"make_assets": ["torch.rand", "torchvision.models.resnet50", "<builtin>.print", "torch.jit.trace", "torchvision.models.resnet18", "torchvision.models.quantization.mobilenet_v2"], "<builtin>.print": [], "torchvision.models.resnet18": [], "torch.rand": [], "torch.jit.trace": [], "torchvision.models.resnet50": [], "torchvision.models.quantization.mobilenet_v2": []}

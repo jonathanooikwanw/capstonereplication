@@ -1,0 +1,1 @@
+{"post_localSGD_hook": [], "post_localSGD_hook.PostLocalSGDState.__init__": ["logging.info"], "logging.info": [], "post_localSGD_hook.PostLocalSGDState.maybe_increase_iter": ["logging.info"], "post_localSGD_hook.post_localSGD_hook": ["default_hooks._allreduce_fut"], "default_hooks._allreduce_fut": []}

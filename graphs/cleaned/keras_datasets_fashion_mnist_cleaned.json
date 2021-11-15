@@ -1,0 +1,1 @@
+{"datasets.fashion_mnist": ["util.tf_export.keras_export"], "util.tf_export.keras_export": [], "datasets.fashion_mnist.load_data": ["numpy.frombuffer", "<builtin>.len", "os.path.join", "utils.data_utils.get_file", "gzip.open"], "os.path.join": [], "utils.data_utils.get_file": [], "gzip.open": [], "numpy.frombuffer": [], "<builtin>.len": []}

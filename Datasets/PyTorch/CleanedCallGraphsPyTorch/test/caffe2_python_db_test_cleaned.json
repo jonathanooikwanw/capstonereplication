@@ -1,0 +1,1 @@
+{"db_test": [], "db_test.TestDB.setUp": ["tempfile.mkstemp", "os.close", "<builtin>.range"], "tempfile.mkstemp": [], "os.close": [], "<builtin>.range": [], "db_test.TestDB.testSimple": ["unittest.TestCase.assertEqual", "caffe2.python.workspace.C.create_db"], "caffe2.python.workspace.C.create_db": [], "unittest.TestCase.assertEqual": []}

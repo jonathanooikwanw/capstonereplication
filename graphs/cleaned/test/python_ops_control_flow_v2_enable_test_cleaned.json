@@ -1,0 +1,1 @@
+{"ops.control_flow_v2_enable_test": ["platform.googletest.main"], "ops.control_flow_v2_enable_test.ControlFlowV2EnableTest.testIsEnabled": ["python.tf2.enabled", "test.TestCase.assertTrue"], "python.tf2.enabled": [], "test.TestCase.assertTrue": [], "platform.googletest.main": []}

@@ -1,0 +1,1 @@
+{"custom_build": ["yaml.dump", "<builtin>.open", "torch.jit.trace", "torch.rand", "torchvision.models.mobilenet_v2", "torch.jit.export_opnames"], "torchvision.models.mobilenet_v2": [], "torch.rand": [], "torch.jit.trace": [], "torch.jit.export_opnames": [], "<builtin>.open": [], "yaml.dump": []}

@@ -1,0 +1,1 @@
+{"handlers": [], "handlers.get_error_handler": ["torch.distributed.elastic.multiprocessing.errors.error_handler.ErrorHandler"], "torch.distributed.elastic.multiprocessing.errors.error_handler.ErrorHandler": []}

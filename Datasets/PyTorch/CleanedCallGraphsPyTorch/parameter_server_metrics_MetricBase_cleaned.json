@@ -1,0 +1,1 @@
+{"MetricBase": [], "MetricBase.MetricBase.__init__": [], "MetricBase.MetricBase": ["abc.abstractmethod"], "abc.abstractmethod": [], "MetricBase.MetricBase.record_start": [], "MetricBase.MetricBase.record_end": [], "MetricBase.MetricBase.elapsed_time": [], "MetricBase.MetricBase.get_name": [], "MetricBase.MetricBase.get_end": []}

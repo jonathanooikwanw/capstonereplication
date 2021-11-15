@@ -1,0 +1,1 @@
+{"conftest": [], "conftest.pytest_addoption": [], "conftest.pytest_configure": ["caffe2.python.serialized_test.serialized_test_util._output_context.__setattr__"], "caffe2.python.serialized_test.serialized_test_util._output_context.__setattr__": []}

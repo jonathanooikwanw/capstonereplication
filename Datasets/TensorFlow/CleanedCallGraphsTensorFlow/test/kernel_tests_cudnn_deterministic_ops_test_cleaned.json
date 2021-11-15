@@ -1,0 +1,1 @@
+{"kernel_tests.cudnn_deterministic_ops_test": ["platform.test.main", "framework.config.enable_op_determinism"], "framework.config.enable_op_determinism": [], "platform.test.main": []}

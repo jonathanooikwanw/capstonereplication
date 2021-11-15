@@ -1,0 +1,1 @@
+{"tensorflow.compat_template_v1": ["<builtin>.hasattr", "util.lazy_loader.LazyLoader", "<builtin>.setattr", "tools.module_util.get_parent_dir_for_name", "<builtin>.globals"], "<builtin>.globals": [], "util.lazy_loader.LazyLoader": [], "tools.module_util.get_parent_dir_for_name": [], "<builtin>.setattr": [], "<builtin>.hasattr": []}

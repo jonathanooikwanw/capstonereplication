@@ -1,0 +1,1 @@
+{"configs": ["operator_benchmark.cross_product_configs", "operator_benchmark.config_list"], "configs.remove_cuda": [], "operator_benchmark.config_list": [], "operator_benchmark.cross_product_configs": []}

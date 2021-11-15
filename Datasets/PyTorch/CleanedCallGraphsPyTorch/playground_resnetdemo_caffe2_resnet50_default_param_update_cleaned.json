@@ -1,0 +1,1 @@
+{"caffe2_resnet50_default_param_update": [], "caffe2_resnet50_default_param_update.gen_param_update_builder_fun": [], "caffe2_resnet50_default_param_update.gen_param_update_builder_fun.add_parameter_update_ops": ["<builtin>.len", "<builtin>.int"], "<builtin>.int": [], "<builtin>.len": []}

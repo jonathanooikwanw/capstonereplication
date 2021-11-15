@@ -1,0 +1,1 @@
+{"convnet_benchmarks_test": ["unittest.main"], "convnet_benchmarks_test.TestConvnetBenchmarks.testConvnetBenchmarks": ["caffe2.python.convnet_benchmarks.Benchmark", "caffe2.python.convnet_benchmarks.GetArgumentParser"], "caffe2.python.convnet_benchmarks.GetArgumentParser": [], "caffe2.python.convnet_benchmarks.Benchmark": [], "unittest.main": []}

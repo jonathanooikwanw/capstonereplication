@@ -1,0 +1,1 @@
+{"operator_support": [], "operator_support.OperatorSupport.is_node_supported": ["<builtin>.enumerate", "tools_common.get_node_target", "<builtin>.isinstance", "<builtin>.len"], "tools_common.get_node_target": [], "<builtin>.enumerate": [], "<builtin>.len": [], "<builtin>.isinstance": []}

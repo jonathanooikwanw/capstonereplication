@@ -1,0 +1,1 @@
+{"conf": ["os.path.abspath", "os.path.join", "os.path.dirname", "textwrap.dedent"], "os.path.dirname": [], "os.path.abspath": [], "os.path.join": [], "textwrap.dedent": [], "conf.setup": ["<builtin>.getattr"], "<builtin>.getattr": []}

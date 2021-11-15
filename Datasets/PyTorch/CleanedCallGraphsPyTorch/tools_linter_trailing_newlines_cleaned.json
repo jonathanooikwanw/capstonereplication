@@ -1,0 +1,1 @@
+{"trailing_newlines": ["sys.exit", "trailing_newlines.main"], "trailing_newlines.correct_trailing_newlines": ["<builtin>.open", "<builtin>.len"], "<builtin>.open": [], "<builtin>.len": [], "trailing_newlines.main": ["fileinput.input", "<builtin>.print", "trailing_newlines.correct_trailing_newlines"], "fileinput.input": [], "<builtin>.print": [], "sys.exit": []}

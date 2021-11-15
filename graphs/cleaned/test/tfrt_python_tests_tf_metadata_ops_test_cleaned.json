@@ -1,0 +1,1 @@
+{"python_tests.tf_metadata_ops_test": ["python_binding.tf_cpurt.TfCpurtExecutor"], "python_binding.tf_cpurt.TfCpurtExecutor": [], "python_tests.tf_metadata_ops_test.TfMetadataOpsTest.test_stop_gradient": ["numpy.testing.assert_allclose", "numpy.random.uniform"], "numpy.random.uniform": [], "numpy.testing.assert_allclose": []}

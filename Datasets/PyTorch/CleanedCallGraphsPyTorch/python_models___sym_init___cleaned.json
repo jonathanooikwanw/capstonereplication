@@ -1,0 +1,1 @@
+{"__sym_init__": ["__sym_init__._parseFile"], "__sym_init__._parseFile": ["caffe2.proto.caffe2_pb2.NetDef", "os.path.dirname", "<builtin>.open"], "caffe2.proto.caffe2_pb2.NetDef": [], "os.path.dirname": [], "<builtin>.open": []}

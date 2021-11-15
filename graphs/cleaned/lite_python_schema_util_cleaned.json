@@ -1,0 +1,1 @@
+{"python.schema_util": ["util.all_util.remove_undocumented"], "python.schema_util.get_builtin_code_from_operator_code": ["<builtin>.max", "<builtin>.callable", "<builtin>.hasattr"], "<builtin>.hasattr": [], "<builtin>.callable": [], "<builtin>.max": [], "util.all_util.remove_undocumented": []}

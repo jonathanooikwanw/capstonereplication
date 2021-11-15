@@ -1,0 +1,1 @@
+{"network2": [], "network2.Net.__init__": ["torch.nn.ReLU", "<builtin>.super", "torch.nn.Linear"], "<builtin>.super": [], "torch.nn.Linear": [], "torch.nn.ReLU": []}

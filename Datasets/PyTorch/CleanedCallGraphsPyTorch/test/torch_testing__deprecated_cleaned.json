@@ -1,0 +1,1 @@
+{"_deprecated": ["_deprecated.warn_deprecated.outer_wrapper", "_deprecated.warn_deprecated"], "_deprecated.warn_deprecated": [], "_deprecated.warn_deprecated.outer_wrapper": ["functools.wraps"], "functools.wraps": [], "_deprecated.warn_deprecated.outer_wrapper.inner_wrapper": ["torch.randn", "torch.rand", "warnings.warn"], "warnings.warn": [], "torch.rand": [], "torch.randn": []}

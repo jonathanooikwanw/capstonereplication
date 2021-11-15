@@ -1,0 +1,1 @@
+{"binary": ["<builtin>.range", "<builtin>.int", "numpy.log2", "<builtin>.tuple"], "numpy.log2": [], "<builtin>.int": [], "<builtin>.range": [], "<builtin>.tuple": [], "binary.BinaryOpFuzzer.__init__": ["<builtin>.super"], "<builtin>.super": []}

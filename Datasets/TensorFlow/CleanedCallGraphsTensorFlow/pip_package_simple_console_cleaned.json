@@ -1,0 +1,1 @@
+{"pip_package.simple_console": ["sys.exit", "ops.control_flow_ops.while_loop"], "pip_package.simple_console.main": ["code.interact"], "code.interact": [], "sys.exit": []}

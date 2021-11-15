@@ -1,0 +1,1 @@
+{"framework.proto_test": ["platform.test.main"], "framework.proto_test.ProtoTest._testLargeProto": ["numpy.zeros", "test.TestCase.assertProtoEquals", "framework.constant_op.constant", "framework.ops.Graph"], "numpy.zeros": [], "framework.constant_op.constant": [], "framework.ops.Graph": [], "test.TestCase.assertProtoEquals": [], "platform.test.main": []}

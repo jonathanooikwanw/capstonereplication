@@ -1,0 +1,1 @@
+{"flake8_hook": ["flake8.main.git.config_for", "sys.exit", "flake8.main.git.hook"], "flake8.main.git.config_for": [], "flake8.main.git.hook": [], "sys.exit": []}

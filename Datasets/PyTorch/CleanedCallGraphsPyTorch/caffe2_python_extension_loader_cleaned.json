@@ -1,0 +1,1 @@
+{"extension_loader": ["contextlib.contextmanager", "<builtin>.hasattr"], "<builtin>.hasattr": [], "contextlib.contextmanager": [], "extension_loader.DlopenGuard": ["sys.setdlopenflags", "sys.getdlopenflags"], "sys.getdlopenflags": [], "sys.setdlopenflags": []}

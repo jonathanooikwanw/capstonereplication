@@ -1,0 +1,1 @@
+{"compute_loss": [], "compute_loss.ComputeLoss.__init__": [], "compute_loss.ComputeLoss.Reset": [], "compute_loss.ComputeLoss.Add": ["caffe2.python.workspace.FetchBlob", "<builtin>.range"], "<builtin>.range": [], "caffe2.python.workspace.FetchBlob": [], "compute_loss.ComputeLoss.Compute": ["compute_loss.ComputeLoss.Reset"]}

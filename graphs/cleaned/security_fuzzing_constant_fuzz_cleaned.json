@@ -1,0 +1,1 @@
+{"fuzzing.constant_fuzz": ["fuzzing.constant_fuzz.main"], "fuzzing.constant_fuzz.TestOneInput": ["tensorflow.constant"], "tensorflow.constant": [], "fuzzing.constant_fuzz.main": ["atheris_no_libfuzzer.Setup", "atheris_no_libfuzzer.Fuzz"], "atheris_no_libfuzzer.Setup": [], "atheris_no_libfuzzer.Fuzz": []}

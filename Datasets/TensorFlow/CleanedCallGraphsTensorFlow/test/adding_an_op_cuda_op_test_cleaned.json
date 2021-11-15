@@ -1,0 +1,1 @@
+{"adding_an_op.cuda_op_test": ["tensorflow.test.main"], "adding_an_op.cuda_op_test.AddOneTest.test": ["adding_an_op.cuda_op.add_one", "tensorflow.test.is_built_with_cuda", "test.TestCase.assertAllEqual"], "tensorflow.test.is_built_with_cuda": [], "adding_an_op.cuda_op.add_one": [], "test.TestCase.assertAllEqual": [], "tensorflow.test.main": []}

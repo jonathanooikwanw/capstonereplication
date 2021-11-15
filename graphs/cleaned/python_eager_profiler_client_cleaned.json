@@ -1,0 +1,1 @@
+{"eager.profiler_client": ["util.deprecation.deprecated"], "util.deprecation.deprecated": [], "eager.profiler_client.start_tracing": ["internal._pywrap_profiler.trace"], "internal._pywrap_profiler.trace": [], "eager.profiler_client.monitor": ["internal._pywrap_profiler.monitor"], "internal._pywrap_profiler.monitor": []}

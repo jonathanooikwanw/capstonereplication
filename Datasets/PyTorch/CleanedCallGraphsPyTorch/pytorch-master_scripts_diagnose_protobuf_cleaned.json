@@ -1,0 +1,1 @@
+{"diagnose_protobuf": ["<builtin>.print", "re.search", "subprocess.Popen"], "<builtin>.print": [], "subprocess.Popen": [], "re.search": []}

@@ -1,0 +1,1 @@
+{"clang_tidy": ["<builtin>.print", "<builtin>.exit", "tools.linter.install.download_bin.download", "os.path.join"], "os.path.join": [], "tools.linter.install.download_bin.download": [], "<builtin>.print": [], "<builtin>.exit": []}

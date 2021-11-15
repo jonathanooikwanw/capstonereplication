@@ -1,0 +1,1 @@
+{"framework.op_def_registry": ["threading.Lock"], "threading.Lock": [], "framework.op_def_registry.get": ["framework._op_def_registry.get", "framework.op_def_pb2.OpDef"], "framework._op_def_registry.get": [], "framework.op_def_pb2.OpDef": [], "framework.op_def_registry.sync": []}

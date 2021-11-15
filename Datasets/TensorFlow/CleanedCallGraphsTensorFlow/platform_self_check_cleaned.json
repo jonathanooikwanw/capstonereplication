@@ -1,0 +1,1 @@
+{"platform.self_check": ["<builtin>.ImportError"], "<builtin>.ImportError": [], "platform.self_check.preload_check": ["ctypes.WinDLL", "<builtin>.ImportError", "ctypes.CDLL", "os.path.join", "os.path.dirname"], "ctypes.WinDLL": [], "os.path.dirname": [], "os.path.join": [], "ctypes.CDLL": []}

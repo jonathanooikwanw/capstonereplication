@@ -1,0 +1,1 @@
+{"test_bench": ["pytest.fixture"], "pytest.fixture": [], "test_bench.modeldef": ["runner.get_nn_runners", "fuser.set_fuser"], "fuser.set_fuser": [], "runner.get_nn_runners": [], "test_bench.cuda_sync": ["torch.cuda.synchronize"], "torch.cuda.synchronize": [], "test_bench.TestBenchNetwork.test_forward": [], "test_bench.TestBenchNetwork.test_backward": []}

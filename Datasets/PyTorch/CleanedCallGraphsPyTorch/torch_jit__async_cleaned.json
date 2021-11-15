@@ -1,0 +1,1 @@
+{"_async": ["torch.utils.set_module", "torch.jit._builtins._register_builtin"], "torch.utils.set_module": [], "_async.fork": ["torch._C.fork"], "torch._C.fork": [], "_async.wait": ["torch._C.wait"], "torch._C.wait": [], "torch.jit._builtins._register_builtin": []}

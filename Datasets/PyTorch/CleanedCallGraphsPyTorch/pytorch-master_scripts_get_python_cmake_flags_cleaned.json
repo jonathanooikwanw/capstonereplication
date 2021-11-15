@@ -1,0 +1,1 @@
+{"get_python_cmake_flags": ["sysconfig.get_path", "<builtin>.print"], "sysconfig.get_path": [], "<builtin>.print": []}

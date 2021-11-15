@@ -1,0 +1,1 @@
+{"tf_saved_model.exported_python_args": ["tf_saved_model.common.do_test"], "compat.v2.function": [], "tf_saved_model.exported_python_args.TestModule": ["compat.v2.function"], "tf_saved_model.exported_python_args.TestModule.some_function": ["compat.v2.function"], "tf_saved_model.exported_python_args.TestModule.callee": [], "tf_saved_model.common.do_test": []}

@@ -1,0 +1,1 @@
+{"refinement_types": [], "refinement_types.Equality.__init__": [], "refinement_types.Equality.__str__": [], "refinement_types.Equality.__repr__": [], "refinement_types.Equality.__eq__": ["<builtin>.isinstance"], "<builtin>.isinstance": []}

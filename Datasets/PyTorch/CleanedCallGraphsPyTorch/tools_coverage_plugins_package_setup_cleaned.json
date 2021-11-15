@@ -1,0 +1,1 @@
+{"setup": ["<builtin>.open", "setuptools.setup", "setuptools.find_packages"], "<builtin>.open": [], "setuptools.find_packages": [], "setuptools.setup": []}

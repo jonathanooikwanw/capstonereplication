@@ -1,0 +1,1 @@
+{"ios.extract_object_files_main": ["platform.test.is_gpu_available"], "ios.extract_object_files_main.main": ["<builtin>.len", "<builtin>.open", "<builtin>.RuntimeError", "ios.extract_object_files.extract_object_files"], "<builtin>.len": [], "<builtin>.RuntimeError": [], "<builtin>.open": [], "ios.extract_object_files.extract_object_files": []}

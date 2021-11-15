@@ -1,0 +1,1 @@
+{"compatibility.all_renames_v2_test": ["platform.test.main"], "compatibility.all_renames_v2_test.AllRenamesV2Test.test_no_identity_renames": ["test_util.TensorFlowTestCase.assertEmpty", "six.iteritems"], "six.iteritems": [], "test_util.TensorFlowTestCase.assertEmpty": [], "platform.test.main": []}

@@ -1,0 +1,1 @@
+{"linear_relu": [], "linear_relu.LinearReLU.__init__": ["<builtin>.super"], "<builtin>.super": [], "linear_relu.LinearReLU.forward": ["torch.ops.quantized.linear_relu"], "torch.ops.quantized.linear_relu": [], "linear_relu.LinearReLU._get_name": [], "linear_relu.LinearReLU.from_float": ["<builtin>.super"]}

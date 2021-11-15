@@ -1,0 +1,1 @@
+{"sparse_unary": ["<builtin>.range", "numpy.log2", "<builtin>.int", "<builtin>.tuple"], "numpy.log2": [], "<builtin>.int": [], "<builtin>.range": [], "<builtin>.tuple": [], "sparse_unary.UnaryOpSparseFuzzer.__init__": ["<builtin>.super"], "<builtin>.super": []}

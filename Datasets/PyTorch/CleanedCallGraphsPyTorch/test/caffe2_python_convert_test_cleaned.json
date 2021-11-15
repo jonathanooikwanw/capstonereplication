@@ -1,0 +1,1 @@
+{"convert_test": ["unittest.main"], "convert_test.TestOperator.setUp": ["caffe2.python.workspace.ResetWorkspace"], "caffe2.python.workspace.ResetWorkspace": [], "unittest.main": []}

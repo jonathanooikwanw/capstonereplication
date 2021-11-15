@@ -1,0 +1,1 @@
+{"ops.map_defun": [], "ops.map_defun.map_defun": ["<builtin>.isinstance", "framework.ops.convert_to_tensor", "framework.tensor_shape.TensorShape", "<builtin>.ValueError", "ops.gen_dataset_ops.map_defun"], "<builtin>.isinstance": [], "<builtin>.ValueError": [], "framework.ops.convert_to_tensor": [], "framework.tensor_shape.TensorShape": [], "ops.gen_dataset_ops.map_defun": []}

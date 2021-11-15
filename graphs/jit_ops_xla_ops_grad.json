@@ -1,0 +1,1 @@
+{"Desktop\\Work\\tensorflow-master\\tensorflow\\compiler\\jit\\ops\\xla_ops_grad": ["tensorflow.python.framework.ops.RegisterGradient"], "tensorflow.python.framework.ops.RegisterGradient": [], "Desktop\\Work\\tensorflow-master\\tensorflow\\compiler\\jit\\ops\\xla_ops_grad._XlaClusterOutputGrad": ["<builtin>.RuntimeError"], "<builtin>.RuntimeError": []}

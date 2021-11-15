@@ -1,0 +1,1 @@
+{"cli.cli_test_utils": ["re.compile"], "cli.cli_test_utils.assert_lines_equal_ignoring_whitespace": ["<builtin>.len", "<builtin>.zip"], "<builtin>.len": [], "<builtin>.zip": [], "re.compile": [], "cli.cli_test_utils.assert_array_lines_close": ["numpy.array", "<builtin>.float", "re.sub"], "re.sub": [], "<builtin>.float": [], "numpy.array": []}

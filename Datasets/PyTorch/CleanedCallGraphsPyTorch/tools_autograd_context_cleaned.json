@@ -1,0 +1,1 @@
+{"context": [], "context.with_native_function_with_differentiability_info": ["functools.wraps"], "functools.wraps": [], "context.with_native_function_with_differentiability_info.wrapper": ["tools.codegen.context.native_function_manager"], "tools.codegen.context.native_function_manager": []}

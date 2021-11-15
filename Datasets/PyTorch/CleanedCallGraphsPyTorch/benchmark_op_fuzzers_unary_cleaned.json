@@ -1,0 +1,1 @@
+{"unary": ["<builtin>.int", "<builtin>.range", "<builtin>.tuple", "numpy.log2"], "numpy.log2": [], "<builtin>.int": [], "<builtin>.range": [], "<builtin>.tuple": [], "unary.UnaryOpFuzzer.__init__": ["<builtin>.super"], "<builtin>.super": []}

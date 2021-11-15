@@ -1,0 +1,1 @@
+{"simple_timeit": ["simple_timeit.main"], "simple_timeit.main": ["torch.utils.benchmark.Timer", "<builtin>.range", "torch.ones", "<builtin>.print"], "torch.ones": [], "torch.utils.benchmark.Timer": [], "<builtin>.range": [], "<builtin>.print": []}

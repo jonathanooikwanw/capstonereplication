@@ -1,0 +1,1 @@
+{"cov_json": [], "cov_json.get_json_report": ["tool.clang_coverage.merge", "run.gcc_run", "run.clang_run", "util.utils.check_compiler_type", "init.detect_compiler_type", "tool.clang_coverage.export"], "init.detect_compiler_type": [], "util.utils.check_compiler_type": [], "run.clang_run": [], "tool.clang_coverage.merge": [], "tool.clang_coverage.export": [], "run.gcc_run": []}

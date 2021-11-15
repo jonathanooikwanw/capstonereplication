@@ -1,0 +1,1 @@
+{"python_protobuf_test": [], "python_protobuf_test.TestCrossProtoCalls.testSimple": ["caffe2.proto.metanet_pb2.MetaNetDef", "caffe2.proto.caffe2_pb2.NetDef"], "caffe2.proto.caffe2_pb2.NetDef": [], "caffe2.proto.metanet_pb2.MetaNetDef": []}

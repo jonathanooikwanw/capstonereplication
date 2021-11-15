@@ -1,0 +1,1 @@
+{"spectral": ["spectral.power_range"], "spectral.power_range": ["<builtin>.range", "math.log", "<builtin>.int"], "math.log": [], "<builtin>.int": [], "<builtin>.range": [], "spectral.SpectralOpFuzzer.__init__": ["<builtin>.super"], "<builtin>.super": []}

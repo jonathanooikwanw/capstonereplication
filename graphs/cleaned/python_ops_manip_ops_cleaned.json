@@ -1,0 +1,1 @@
+{"ops.manip_ops": ["util.dispatch.add_dispatch_support", "util.deprecation.deprecated_endpoints", "util.tf_export.tf_export"], "util.tf_export.tf_export": [], "util.dispatch.add_dispatch_support": [], "util.deprecation.deprecated_endpoints": [], "ops.manip_ops.roll": ["ops.gen_manip_ops.roll"], "ops.gen_manip_ops.roll": []}

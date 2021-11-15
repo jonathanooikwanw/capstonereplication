@@ -1,0 +1,1 @@
+{"platform.app_test": ["platform.flags.DEFINE_boolean", "sys.argv.extend", "platform.app.run"], "platform.flags.DEFINE_boolean": [], "platform.app_test.main": ["<builtin>.print", "sys.exit", "<builtin>.len"], "<builtin>.len": [], "<builtin>.print": [], "sys.exit": [], "sys.argv.extend": [], "platform.app.run": []}

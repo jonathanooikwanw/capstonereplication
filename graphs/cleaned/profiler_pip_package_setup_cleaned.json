@@ -1,0 +1,1 @@
+{"pip_package.setup": ["setuptools.setup", "version.__version__.replace"], "version.__version__.replace": [], "setuptools.setup": []}

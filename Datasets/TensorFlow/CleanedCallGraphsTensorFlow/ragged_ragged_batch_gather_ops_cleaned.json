@@ -1,0 +1,1 @@
+{"ragged.ragged_batch_gather_ops": ["util.dispatch.dispatch_for_api"], "util.dispatch.dispatch_for_api": [], "ragged.ragged_batch_gather_ops.batch_gather": ["ragged.ragged_gather_ops.gather"], "ragged.ragged_gather_ops.gather": []}

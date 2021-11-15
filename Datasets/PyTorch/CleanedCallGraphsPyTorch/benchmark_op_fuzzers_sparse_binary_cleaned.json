@@ -1,0 +1,1 @@
+{"sparse_binary": ["<builtin>.tuple", "<builtin>.range", "numpy.log2", "<builtin>.int"], "numpy.log2": [], "<builtin>.int": [], "<builtin>.range": [], "<builtin>.tuple": [], "sparse_binary.BinaryOpSparseFuzzer.__init__": ["<builtin>.super"], "<builtin>.super": []}

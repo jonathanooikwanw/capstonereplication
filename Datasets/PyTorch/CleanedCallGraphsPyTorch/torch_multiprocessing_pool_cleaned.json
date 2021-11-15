@@ -1,0 +1,1 @@
+{"pool": [], "pool.clean_worker": ["gc.collect"], "gc.collect": [], "pool.Pool._setup_queues": ["queue.SimpleQueue"], "queue.SimpleQueue": [], "pool.Pool._repopulate_pool": ["<builtin>.range", "<builtin>.len", "multiprocessing.util.debug", "<builtin>.hasattr"], "<builtin>.len": [], "<builtin>.range": [], "<builtin>.hasattr": [], "multiprocessing.util.debug": []}

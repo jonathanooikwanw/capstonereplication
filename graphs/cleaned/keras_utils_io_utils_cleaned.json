@@ -1,0 +1,1 @@
+{"utils.io_utils": [], "utils.io_utils.path_to_string": ["<builtin>.isinstance", "os.fspath"], "<builtin>.isinstance": [], "os.fspath": [], "utils.io_utils.ask_to_proceed_with_overwrite": ["<builtin>.print", "<builtin>.input"], "<builtin>.input": [], "<builtin>.print": []}

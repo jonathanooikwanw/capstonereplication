@@ -1,0 +1,1 @@
+{"fakefp16_transform_lib": [], "fakefp16_transform_lib.fakeFp16FuseOps": ["caffe2.proto.caffe2_pb2.NetDef", "caffe2.python._import_c_extension.fakeFp16FuseOps"], "caffe2.python._import_c_extension.fakeFp16FuseOps": [], "caffe2.proto.caffe2_pb2.NetDef": []}

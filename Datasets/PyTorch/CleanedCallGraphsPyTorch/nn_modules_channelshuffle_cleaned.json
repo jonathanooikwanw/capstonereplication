@@ -1,0 +1,1 @@
+{"channelshuffle": [], "channelshuffle.ChannelShuffle.__init__": ["<builtin>.super"], "<builtin>.super": [], "channelshuffle.ChannelShuffle.forward": ["functional.channel_shuffle"], "functional.channel_shuffle": [], "channelshuffle.ChannelShuffle.extra_repr": []}

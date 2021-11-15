@@ -1,0 +1,1 @@
+{"utils": [], "utils.sparse_tensor_to_rpc_format": [], "utils.sparse_rpc_format_to_tensor": ["torch.sparse_coo_tensor"], "torch.sparse_coo_tensor": [], "utils.process_bucket_with_remote_server": ["utils.sparse_tensor_to_rpc_format"], "utils.process_bucket_with_remote_server.callback": ["<builtin>.type", "utils.sparse_rpc_format_to_tensor"], "<builtin>.type": []}

@@ -1,0 +1,1 @@
+{"chi2": [], "chi2.Chi2.__init__": ["<builtin>.super"], "<builtin>.super": [], "chi2.Chi2.expand": ["<builtin>.super", "torch.distributions.gamma.Gamma._get_checked_instance"], "torch.distributions.gamma.Gamma._get_checked_instance": [], "chi2.Chi2.df": []}

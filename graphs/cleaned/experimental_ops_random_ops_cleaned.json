@@ -1,0 +1,1 @@
+{"ops.random_ops": ["python.tf2.enabled"], "functools.wraps": [], "ops.random_ops.RandomDatasetV1": ["functools.wraps"], "ops.random_ops.RandomDatasetV1.__init__": ["<builtin>.super", "dataset_ops.RandomDataset.__init__"], "dataset_ops.RandomDataset.__init__": [], "<builtin>.super": [], "python.tf2.enabled": []}

@@ -1,0 +1,1 @@
+{"net_modifier": [], "net_modifier.NetModifier.__init__": [], "net_modifier.NetModifier": ["abc.abstractmethod"], "abc.abstractmethod": [], "net_modifier.NetModifier.modify_net": [], "net_modifier.NetModifier.__call__": ["net_modifier.NetModifier.modify_net"]}
