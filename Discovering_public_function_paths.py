@@ -24,12 +24,11 @@ graph = json.load(f)
 networkx_graph = nx.from_dict_of_lists(graph, create_using=nx.DiGraph) #directed graph
 
 #TensorFlow - PyTorch is at the bottom
-tfpublicfunctionspath = 
+tfpublicfunctionspath = # Fill in with the path of the tensorflowpublicfunctions.csv file
 column_names = ["Name"]
 df = pd.read_csv(tfpublicfunctionspath, names=column_names) #The path of your tensorflow public functions file - this is provided in the dataset
 publicfunctionlist = df.Name.to_list()
 for numpyfunction in numpylist:
-    # shortest_path = nx.all_shortest_paths(networkx_graph, "tensor_util.is_tf_type", "numpy.concatenate")
     shortestpathlist = []
     for i in publicfunctionlist:
         print(i)
