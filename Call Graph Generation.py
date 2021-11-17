@@ -20,7 +20,7 @@ except OSError:
 
 def pyCG():
     # Path to your repository
-    path = r"C:\Users\User\Desktop\Work\tensorflow-master"
+    path = #<--- CHANGE THIS TO YOUR TENSORFLOW OR PYTORCH REPOSITORY
     files = glob.glob(path + '/**/*.py', recursive=True)
 
     for scanned_file_name in files:
@@ -28,7 +28,6 @@ def pyCG():
         path = pathlib.PurePath(scanned_file_name)
         foldername = os.path.basename(path.parent)
         parentfoldername = os.path.basename(path.parent.parent)
-        # Change the first line to your destination
         jsonpath = uncleaned_call_graph_folder + "\\" + str(parentfoldername) + "_" + str(foldername) + "_" + str(jsonname) + ".json"
         with open(jsonpath, 'w') as outfile:
             subprocess.run(["pycg", scanned_file_name], stdout=outfile)
@@ -43,7 +42,6 @@ def cleaning():
     for json_graph in listoffiles:
 
         print(i)
-        # print(json_graph)
         f = open(json_graph)
         try:
             old_dict = json.load(f)
@@ -140,7 +138,7 @@ def combining_callgraph(path):
         json.dump(master_dict, fp)
 
 
-# pyCG()
+pyCG()
 cleaned_callgraph_folder = r'{}\cleaned'.format(uncleaned_call_graph_folder)  # path to be created
 cleaned_test_callgraph_folder = r'{}\test'.format(cleaned_callgraph_folder)
 final_call_graph_folder = r'{}\final'.format(cleaned_callgraph_folder)
