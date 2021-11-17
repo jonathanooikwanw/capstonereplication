@@ -1,0 +1,2 @@
+ops.gradient_checker.compute_gradient,ops.gradient_checker._compute_gradient,numpy.random.random_sample
+ops.gradient_checker.compute_gradient_error,ops.gradient_checker.compute_gradient,ops.gradient_checker._compute_gradient,numpy.random.random_sample
