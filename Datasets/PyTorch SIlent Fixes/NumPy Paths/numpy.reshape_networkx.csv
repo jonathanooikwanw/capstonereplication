@@ -1,0 +1,5 @@
+2,tt_core.matrix_to_tt,numpy.reshape,,
+2,tt_core.tt_svd,numpy.reshape,,
+2,_utils._prepare_video,numpy.reshape,,
+3,summary.video,_utils._prepare_video,numpy.reshape,
+4,writer.SummaryWriter.add_video,summary.video,_utils._prepare_video,numpy.reshape
