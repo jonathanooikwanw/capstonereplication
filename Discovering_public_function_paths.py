@@ -10,10 +10,9 @@ import pandas as pd
 import pathlib
 
 column_names = ["Name"]
-df = pd.read_csv(r'C:\Users\User\Desktop\Work\SMU\Capstone\Datasets\callgraph\Tensorflow Call Graphs\publicfunctions2.csv', names=column_names) #The path of your tensorflow public functions file - this is provided in the dataset
-publicfunctionlist = df.Name.to_list()
-final_call_graph = #the path of your final call graph
-destination_path = #Where you want the csv files containing the vulnerable paths to end up
+
+final_call_graph =  #the path of your final call graph, fill this in
+destination_path =  #Where you want the csv files containing the vulnerable paths to end up, fill this in
 
 #Total number of numpy functions
 #Numpy example 
@@ -25,6 +24,9 @@ graph = json.load(f)
 
 networkx_graph = nx.from_dict_of_lists(graph, create_using=nx.DiGraph) #directed graph
 
+#TensorFlow - PyTorch is at the bottom
+df = pd.read_csv(r'C:\Users\User\Desktop\Work\SMU\Capstone\Datasets\callgraph\Tensorflow Call Graphs\publicfunctions2.csv', names=column_names) #The path of your tensorflow public functions file - this is provided in the dataset
+publicfunctionlist = df.Name.to_list()
 for numpyfunction in numpylist:
     # shortest_path = nx.all_shortest_paths(networkx_graph, "tensor_util.is_tf_type", "numpy.concatenate")
     shortestpathlist = []
@@ -49,3 +51,25 @@ for numpyfunction in numpylist:
         write = csv.writer(testfile)
         write.writerows(shortestpathlist)    
 
+
+# #PyTorch - comment out if you want to use this
+# for numpyfunction in numpylist:
+#     shortestpathlist = []
+#     try:
+#         n=nx.single_target_shortest_path(networkx_graph,numpyfunction, 4)
+#         for value in n.values():
+#             print(value)
+#             shortestpathlist.append(value)
+#     except nx.NetworkXNoPath:
+#         # print('No path')
+#         pass
+#     except nx.NodeNotFound:
+#         # print('No node' + i)
+#         pass
+#         # number = number + 1
+#     except KeyError:
+#         pass
+#     csvfilename = destination_path + "\\" + numpyfunction + "_networkx.csv"
+#     with open(csvfilename, 'w', newline='')as testfile:
+#         write = csv.writer(testfile)
+#         write.writerows(shortestpathlist)    
