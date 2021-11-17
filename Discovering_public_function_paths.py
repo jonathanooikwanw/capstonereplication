@@ -9,7 +9,6 @@ import glob
 import pandas as pd
 import pathlib
 
-column_names = ["Name"]
 
 final_call_graph =  #the path of your final call graph, fill this in
 destination_path =  #Where you want the csv files containing the vulnerable paths to end up, fill this in
@@ -25,7 +24,9 @@ graph = json.load(f)
 networkx_graph = nx.from_dict_of_lists(graph, create_using=nx.DiGraph) #directed graph
 
 #TensorFlow - PyTorch is at the bottom
-df = pd.read_csv(r'C:\Users\User\Desktop\Work\SMU\Capstone\Datasets\callgraph\Tensorflow Call Graphs\publicfunctions2.csv', names=column_names) #The path of your tensorflow public functions file - this is provided in the dataset
+tfpublicfunctionspath = 
+column_names = ["Name"]
+df = pd.read_csv(tfpublicfunctionspath, names=column_names) #The path of your tensorflow public functions file - this is provided in the dataset
 publicfunctionlist = df.Name.to_list()
 for numpyfunction in numpylist:
     # shortest_path = nx.all_shortest_paths(networkx_graph, "tensor_util.is_tf_type", "numpy.concatenate")
