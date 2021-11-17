@@ -55,7 +55,9 @@ def cleaning():
             new_key = ""
             new_value_list = []
             # Check if the key contains tensorflow, if it does we want to filter it, change this
-            if "SMU" or "tensorflow" in key:  # Change this
+            
+            if "tensorflow" in key:  # <--------- Change this to either "tensorflow" or "pytorch:
+                
                 # Assumption: the tensorflow keys have either \ or not, filter accordingly
                 # Example: Desktop\Work\tensorflow-master\tensorflow\python\framework\tensor_util._is_array_like -> tensor_util._is_array_like
                 if "\\" in key:
@@ -77,7 +79,7 @@ def cleaning():
                 ## Do the same on the values
             for uncleaned_value in old_dict[key]:
                 # Change this to either tensorflow or pytorch
-                if "SMU" or "tensorflow" in uncleaned_value:
+                if "tensorflow" in uncleaned_value:  # <--------- Change this to either "tensorflow" or "pytorch:
                     if "\\" in uncleaned_value:
                         cleaned_value = pattern.search(uncleaned_value)
                         part_1_value = cleaned_value.group(1)
