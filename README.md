@@ -1,4 +1,4 @@
-# An Empirical Study on Vulnerabilities in Deep Learning Librariesand Their Exploits
+# Analyzing Vulnerabilities in Deep Learning Libraries and Their Exploits
 This is the replication package of the capstone project done by Jonathan Ooi Kwan Weng
 
 # How to use
