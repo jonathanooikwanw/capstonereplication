@@ -51,25 +51,3 @@ for numpyfunction in numpylist:
         write = csv.writer(testfile)
         write.writerows(shortestpathlist)    
 
-
-# #PyTorch - comment out if you want to use this
-# for numpyfunction in numpylist:
-#     shortestpathlist = []
-#     try:
-#         n=nx.single_target_shortest_path(networkx_graph,numpyfunction, 4)
-#         for value in n.values():
-#             print(value)
-#             shortestpathlist.append(value)
-#     except nx.NetworkXNoPath:
-#         # print('No path')
-#         pass
-#     except nx.NodeNotFound:
-#         # print('No node' + i)
-#         pass
-#         # number = number + 1
-#     except KeyError:
-#         pass
-#     csvfilename = destination_path + "\\" + numpyfunction + "_networkx.csv"
-#     with open(csvfilename, 'w', newline='')as testfile:
-#         write = csv.writer(testfile)
-#         write.writerows(shortestpathlist)    
