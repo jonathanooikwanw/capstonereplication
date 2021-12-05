@@ -18,12 +18,14 @@ You will need to install PyCG and NetworkX. ``pip install pycg`` ``pip install n
 
 ## Discovering_public_function_paths_tensorflow.py
    This file takes two user inputs.
-   1. The path of the final call graph for TensorFlow. You can get this by doing (shift+right click) on the final TensorFlow call graph. Ensure your input has quotation marks. (Example: "C:\Users\User\Desktop\Replication Package\tensorflow_final_combined_graph.json")
-   2. The path of the public TensorFlow function csv file provided in the dataset. Do the same steps as step 1. (Example: "C:\Users\User\Desktop\Replication Package\tensorflowpublicfunctions.csv").
+   1. The path of the final call graph for TensorFlow. 
+   You can get this by doing (shift+right click) on the final TensorFlow call graph. Ensure your input has quotation marks. (Example: "C:\Users\User\Desktop\Replication Package\tensorflow_final_combined_graph.json")
+   3. The path of the public TensorFlow function csv file provided in the dataset. 
+Do the same steps as step 1. (Example: "C:\Users\User\Desktop\Replication Package\tensorflowpublicfunctions.csv").
 
 ## Discovering_public_function_paths_pytorch.py
    This file takes two user inputs. We do not have the public functions of PyTorch as it was too difficult to obtain. Therefore, we assume all functions are public.
-   1. The path of the final call graph for TensorFlow. You can get this by doing (shift+right click) on the final TensorFlow call graph. Ensure your input has quotation marks. (Example: "C:\Users\User\Desktop\Replication Package\pytorch_final_combined_graph.json")
+   1. The path of the final call graph for TensorFlow. You can get this by doing (shift+right click) on the final PyTorch call graph. Ensure your input has quotation marks. (Example: "C:\Users\User\Desktop\Replication Package\pytorch_final_combined_graph.json")
    2. The maximum length/cutoff of the shortest paths obtained. 
    
 ## Call graph versions
