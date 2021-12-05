@@ -1,8 +1,10 @@
 # Analyzing Vulnerabilities in Deep Learning Libraries and Their Exploits
-This is the replication package of the capstone project done by Jonathan Ooi Kwan Weng
+This is the replication package of the capstone project done by Jonathan Ooi Kwan Weng.
 
 # How to use
-Each file has relevant comments and guides on where to change the variables.
+Each file has relevant comments and guides on where to change the variables. 
+
+You will need to install PyCG and NetworkX. ``pip install pycg`` ``pip install networkx``
 
 ## Call Graph Generation.py
    This file takes two user inputs.
