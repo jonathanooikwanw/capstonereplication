@@ -26,12 +26,16 @@ Each file has relevant comments and guides on where to change the variables.
    
 ## Call graph versions
    The call graphs of TensorFlow are created from TensorFlow version 2.6.0.
+
    The call graphs of PyTorch are created from PyTorch version 1.9.0.
 
 ## Exploit code
    For both TensorFlow and PyTorch, the NumPy version used is 1.17 for numpy.array and numpy.dtype.
+
    TensorFlow numpy.load uses TensorFlow version 2.20 and NumPy version 1.16.
+
    TensorFlow version used is Tensorflow 2.3.1
+
    You can install the specific numpy version commit using this command.
    ``pip install git+git://github.com/numpy/numpy.git@d121225b410628d71be8626057c0540c2053c965``
    
